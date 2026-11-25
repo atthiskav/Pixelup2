@@ -1,0 +1,9 @@
+PIXELUP — ARQUIVOS DO SITE
+
+Este ZIP contém o código-fonte do site institucional da PixelUp, incluindo as páginas, componentes, estilos e integrações presentes no projeto.
+
+Para executar localmente, instale as dependências com `bun install` e inicie com `bun run dev`.
+
+Arquivos de ambiente, credenciais, hospedagem e serviços externos não estão incluídos. Configure as integrações necessárias antes de publicar.
+
+Observação: o selo visual da plataforma de criação, quando exibido na prévia ou na hospedagem da plataforma, é inserido pela própria plataforma e não aparece como elemento no código-fonte deste projeto. A remoção deve ser feita nas configurações de publicação/branding da plataforma, se essa opção estiver disponível no seu plano.
